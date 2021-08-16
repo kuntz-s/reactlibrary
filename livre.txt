@@ -1,0 +1,16 @@
+bibliothèque de livres
+
+ajouter un livre
+informations necessaires
+
+1-titre
+2-date de publication
+3-maison d'edition
+3.5- genre 
+4-nom auteur
+5-prenom auteur
+6-date de naissance
+7-nationalité
+
+
+
